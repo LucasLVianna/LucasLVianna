@@ -9,7 +9,6 @@ I have experience working in team environments with Scrum, UML modeling, require
 Fun fact: Linux enthusiast with a passion for OS architecture. I've customized Linux distributions out of curiosity and to meet my own optimization needs.<br>
 🎯 Currently focused on expanding my skills in software architecture, information security, and cyber-physical systems.<br><br>
 
----
 ## 🇧🇷 Sobre Mim<br>
 Estudante de Engenharia de Software com experiência prática em desenvolvimento backend e sistemas embarcados. Atuo no desenvolvimento de funcionalidades, modelagem de banco de dados e programação de firmware, utilizando principalmente:<br><br>
 Java · PHP & MySQL · C · C++ (ESP32 / FreeRTOS) · JavaScript · Linux · Docker · Git<br><br>
