@@ -3,15 +3,15 @@
 💻 Backend Developer & Firmware Engineer 🚀 Passionate about building reliable systems, from robust backends to embedded firmware<br>
 
 ## 🇺🇸 About Me
-<br>Software Engineering student with hands-on experience in backend development and embedded systems. I work with feature development, database design, and firmware programming using:<br><br>
-Java · PHP & MySQL · C · C++ (ESP32 / FreeRTOS) · JavaScript · Linux · Docker · Git<br><br>
+Software Engineering student with hands-on experience in backend development and embedded systems. I work with feature development, database design, and firmware programming using:<br><br>
+Java · PHP · C · C++ · JavaScript · Linux · Docker · Git · MySQL <br><br>
 I have experience working in team environments with Scrum, UML modeling, requirements engineering, and code testing, delivering structured and well-documented solutions across academic and personal projects.<br>
 Fun fact: Linux enthusiast with a passion for OS architecture. I've customized Linux distributions out of curiosity and to meet my own optimization needs.<br>
-🎯 Currently focused on expanding my skills in software architecture, information security, and cyber-physical systems.<br><br>
+🎯 Currently focused on expanding my skills in software architecture, information security, and cyber-physical systems.<br>
 
 ## 🇧🇷 Sobre Mim<br>
 Estudante de Engenharia de Software com experiência prática em desenvolvimento backend e sistemas embarcados. Atuo no desenvolvimento de funcionalidades, modelagem de banco de dados e programação de firmware, utilizando principalmente:<br><br>
-Java · PHP & MySQL · C · C++ (ESP32 / FreeRTOS) · JavaScript · Linux · Docker · Git<br><br>
+Java · PHP · C · C++ · JavaScript · Linux · Docker · Git · MySQL <br><br>
 Tenho experiência em ambientes ágeis com Scrum, modelagem UML, engenharia de requisitos e testes de código, entregando soluções estruturadas e bem documentadas em projetos acadêmicos e pessoais.<br>Fato curioso: entusiasta de Linux e de arquitetura de sistemas operacionais, tendo customizado distribuições Linux por curiosidade e para atender minhas necessidades de otimização.<br>
 🎯 Atualmente focado em evoluir em arquitetura de software, segurança da informação e sistemas cyber-físicos.
 
