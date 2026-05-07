@@ -1,5 +1,6 @@
 # About Me:
 👋 Hi, I'm Lucas Vianna<br>💻 Backend Developer & Firmware Engineer 🚀 Passionate about building reliable systems, from robust backends to embedded firmware<br>
+---
 🇺🇸 About Me
 <br>Software Engineering student with hands-on experience in backend development and embedded systems. I work with feature development, database design, and firmware programming using:<br><br>
 Java · PHP & MySQL · C · C++ (ESP32 / FreeRTOS) · JavaScript · Linux · Docker · Git<br><br>
